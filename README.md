@@ -143,7 +143,7 @@ button.addEventListener("click", addNewJoke);
 
 También cambia está línea
 
-> Soy \[tu nombre\] y cambié esto en una branch.
+> Soy Leonardo Sanchez Limon y cambié esto en una branch.
 
 Hacemos commit y push a los cambios
 
